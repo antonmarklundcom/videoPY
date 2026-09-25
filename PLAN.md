@@ -1,8 +1,15 @@
 # Content system: master plan (draft v1, 2026-09-25)
 
-Status: **proposal, awaiting Anton's answers in §1**. Once §1 is confirmed, the
-per-phase prompt files get written (content-engine `prompts/`, this repo's
-`prompts/`) and the build runs under the phased-autonomous-build method.
+Status (2026-09-25): **§1 confirmed with changes.**
+- **Building now:** the research studio in `content-engine` (competitor research,
+  YT digests + saved lessons, ideas, titles, on-camera scripts with a
+  teleprompter, Higgsfield shot lists). See `content-engine/PLAN.md` §1.27–36
+  and phases O5–O8, S5, S6, S8, S10–S12, S9.
+- **Deferred:** everything in this repo (voice, captions, render, clipping).
+  Anton records on camera for residency and real estate for now; the
+  Paraguayan voice is chosen the week of 2026-10-05, then track V starts.
+- **Separate build later:** children's stories for the Paraguayan market (no
+  competitor research needed, so not part of content-engine).
 
 This file covers the whole content system across four repos. Each repo keeps its
 own detailed `PLAN.md`; this one decides what goes where and in what order.
